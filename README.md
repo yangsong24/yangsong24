@@ -1,3 +1,5 @@
+![alt text](https://github.com/yangsong24/yangsong24/blob/main/nn.png)
+
 - 👋 Hi, I’m Yatharth
 - 👀 I’m a undergraduate in Telecommunication engineering.
 - 🌱 I’m intersted in deep learning

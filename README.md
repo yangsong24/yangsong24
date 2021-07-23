@@ -1,7 +1,7 @@
 ![alt text](https://github.com/yangsong24/yangsong24/blob/main/nn.png)
 
 - 👋 Hi, I’m Yatharth
-- 👀 I’m a undergraduate in Telecommunication engineering.
+- 👀 I’m an undergraduate in Telecommunication engineering.
 - 🌱 I’m intersted in deep learning
  applications and combining telcommunication with deep learning.
  I have also interests in computer vision, data science and cyber security.

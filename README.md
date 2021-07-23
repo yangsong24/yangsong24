@@ -5,7 +5,7 @@
 - 🌱 I’m intersted in deep learning
  applications and combining telcommunication with deep learning.
  I have also interests in computer vision, data science and cyber security.
- - 💥 I'm a explorer in the field of computer science.
+ - 💥 I'm an explorer in the field of computer science.
  
  Please do check some of my projects and feel free to contact me.
 
